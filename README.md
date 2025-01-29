@@ -10,8 +10,6 @@
 
 <img src="https://github.com/user-attachments/assets/da7729d2-a300-4d5c-98d5-3ab3289fc1b9" width="500">
 
-# **Relatório - Dia 2 da Imersão Alura (Spotify)**
-
 ## **Dia 2 - Resumo**
 - Expandimos o **menu lateral**, adicionando novas seções.
 - Estilizamos botões e ícones para melhorar a acessibilidade.
