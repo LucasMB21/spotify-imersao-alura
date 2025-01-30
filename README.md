@@ -21,3 +21,12 @@
 
 <img src="https://github.com/user-attachments/assets/2f4e27a1-832e-40e7-bcfa-3a45cb491ff4" width="500">
 
+# **Dia 3 - Resumo**  
+- Implementamos a **barra de busca** no centro da tela.  
+- Adicionamos os botões **"Entrar" e "Inscreva-se"** no topo direito.  
+- Criamos um **banner promocional** fixo na parte inferior.  
+- Ajustamos a estrutura para manter a **identidade visual** do Spotify.  
+
+🎵 **Agora o site está mais interativo e funcional!** 🚀  
+
+<img src="https://github.com/user-attachments/assets/33bdd970-caee-4f24-b763-fd385ade59b4" width="500">
