@@ -30,3 +30,15 @@
 🎵 **Agora o site está mais interativo e funcional!** 🚀  
 
 <img src="https://github.com/user-attachments/assets/33bdd970-caee-4f24-b763-fd385ade59b4" width="500">
+
+## **Dia 4 - Resumo**
+- Implementamos a **seção de navegação** com categorias.
+- Estilizamos os **cards de playlists** para melhor organização.
+- Ajustamos a **responsividade** para diferentes tamanhos de tela.
+- Melhoramos a **interface da página principal**, trazendo mais dinamismo.
+- Pequenos refinamentos no **CSS** para maior consistência visual.
+
+🎵 **O projeto está cada vez mais completo e funcional!**
+
+<img src="https://github.com/user-attachments/assets/9e99f5f0-0df5-4c0e-8eb7-0aeccca57223" width="500">
+
